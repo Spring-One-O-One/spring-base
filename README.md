@@ -1,4 +1,2 @@
-# spring-configs
-
-##### This repo contains:
-- Basic Spring Setup
+# spring-base
+Basic Spring Setup
