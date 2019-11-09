@@ -2,4 +2,3 @@
 
 ##### This repo contains:
 - Basic Spring Setup
-- Spring XML with @Annotations demo
